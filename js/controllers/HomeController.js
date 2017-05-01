@@ -88,9 +88,54 @@ app.controller('HomeController', ['$scope', function($scope) {
       likes:	812,
       dislikes:	101,
       posterindex: 0
-	}
-	
-	
+	},
+//{
+//      title:	'The Fate od the Furious',
+//      iscore:	7.3,
+//      rating:	'PG-13',
+//      runtime:	136,
+//      released:	new Date('2017', '4', '14'),
+//      country:	'USA',
+//      posters:	['img/faf1.jpg','img/faf2.jpg'],
+//      imdb:		'http://www.imdb.com/title/tt4630562/?ref_=fn_al_tt_1',
+//      website:	'https://www.facebook.com/TheFateoftheFuriousF8/',
+//      likes:	213,
+//      dislikes:	42,
+//      posterindex: 0
+//    },
+//    {
+//      title:	'Suicide Squad',
+//      iscore:	7.2,
+//      rating:	'PG',
+//      runtime:	123,
+//      released:	new Date('2016', '8', '5'),
+//      country:	'USA',
+//      posters:	['img/ss1.jpg','img/ss2.jpg'],
+//      imdb:		'http://www.imdb.com/title/tt1386697/?ref_=fn_al_tt_1',
+//      website:	'https://www.facebook.com/SuicideSquad/?fref=ts',
+//      likes:	629,
+//      dislikes:	102,
+//      posterindex: 0
+//    },
+//    {
+//      title:	'Pirates of the Caribbean
+//      Dead Men Tell No Tales',
+//      iscore:	9.9,
+//      rating:	'PG-13',
+//      runtime:	129,
+//      released:	new Date('2017', '5', '26'),
+//      country:	'USA',
+//      posters:	['img/poc1.jpg','img/poc2.jpg'],
+//      imdb:		'http://www.imdb.com/title/tt1790809/?ref_=fn_al_tt_1',
+//      website:	'https://www.facebook.com/Potcdeadmentellnotales/?fref=ts',
+//      likes:	588,
+//      dislikes:	158,
+//      posterindex: 0
+//    }
+//
+//
+//	
+//	
   ];
 	
 	
